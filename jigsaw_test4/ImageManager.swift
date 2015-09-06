@@ -14,7 +14,7 @@ struct DirInfo
     var fileList = [String]()   //该目录下文件列表,不包含路径,第一个元素是添加图片按钮
 }
 
-//自定义目录放在目录列表的第一个//test、、、
+//自定义目录放在目录列表的第一个//test 1
 class ImageManager
 {
     //单例
