@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7BFB4A35-8A2F-4561-91F3-DCC4B10EDA73</string>
+	<key>IDESourceControlProjectName</key>
+	<string>jigsaw_test4</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1843476594664D7800AAC9515F6F85B55842EBE8</key>
+		<string>https://github.com/gerryke/jiasaw_test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>jigsaw_test4.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1843476594664D7800AAC9515F6F85B55842EBE8</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/gerryke/jiasaw_test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1843476594664D7800AAC9515F6F85B55842EBE8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1843476594664D7800AAC9515F6F85B55842EBE8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jigsaw_test4_git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
